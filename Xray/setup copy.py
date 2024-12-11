@@ -19,7 +19,7 @@ setup(
 
 name="Xray",
 version="0.0.1",
-install_requires=get_requirements(r"E:\\deep learning project\\Xray\\requirements_dev.txt"),
+install_requires=get_requirements(r"E:\deep learning project\Xray\requirements_dev.txt"),
 package=find_packages()
 
 )
